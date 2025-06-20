@@ -4,8 +4,6 @@
 
 [纽约项目的下载地址](https://github.com/Yankun168/NYCtrafficFlowPrediction "最新版本下载")
 
-
-[我的博客地址](https://blog.csdn.net/m0_75237457?spm=1000.2115.3001.5343 "最新版本下载")
 ## 代码环境要求
 
 - **Python**: 3.12

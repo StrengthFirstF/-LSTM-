@@ -13,9 +13,8 @@
 ### 环境安装指南
 
 #### 懒人安装法（一键安装所有依赖）
-```bash
-#用下面给的这个命令安装
-#conda env create -f environment.yaml
+# 用下面给的这个命令安装
+# conda env create -f environment.yaml
 
 
 
